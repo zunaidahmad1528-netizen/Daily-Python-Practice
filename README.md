@@ -2,24 +2,24 @@
 
 My daily Python practice repo where I write code every day, one topic at a time, to get better at Python through consistency.
 
-This is my everyday Python practice repo. Basically, I'm learning Python and instead of just watching tutorials and forgetting everything, I decided to write code daily and dump it all here so I can look back and see how far I've come.
+I started this repo because watching tutorials alone wasn't helping. I'd finish a video, feel like I understood everything, then forget it all the next day. So now I code every day and push whatever I write here. Months later, this repo will show me exactly how much I've learned.
 
 ## What's inside
 
-Right now it's just the start, so there isn't much here yet.
+This is just the beginning, so there's only one file for now.
 
-`01_basics.py` covers the basics like variables, data types and that kind of stuff.
+`01_basics.py` is where I'm starting from. It covers the usual beginner stuff like variables and data types.
 
-As I keep practicing, I'll keep adding new files here day by day. One file, one topic at a time.
+New files will keep showing up here as I go. Nothing follows a strict plan, I just pick a topic each day and write code around it.
 
-## Why am I doing this
+## Why I'm doing this
 
-Simple, consistency. I want to get comfortable with Python, and the only way that happens is by writing code regularly, making mistakes, and fixing them.
+Honestly, I just want to stop being a beginner. The only way that happens is by writing code regularly, breaking things, and figuring out how to fix them.
 
 ## How to run
 
-Just clone the repo and run any file:
+Clone the repo and run any file:
 
 python 01_basics.py
 
-That's it. Nothing fancy here, just me and my daily code.
+No setup, no dependencies, just plain Python files.
