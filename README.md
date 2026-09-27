@@ -1,21 +1,27 @@
 # Daily Python Practice
 
-A personal repository where I practice Python daily to build consistency and improve problem-solving skills.
+Hi! 👋
 
-## Structure
+This is my everyday Python practice repo. Basically, I'm learning Python and instead of just watching tutorials and forgetting everything, I decided to write code daily and dump it all here so I can look back and see how far I've come.
 
-- `01_basics.py` — Python basics: syntax, variables, data types, operators
+## What's inside
 
-Each numbered file focuses on a specific concept or exercise.
+Right now it's just the start, so there isn't much here yet:
 
-## Goals
+- `01_basics.py` — starting with the basics (variables, data types, that kind of stuff)
 
-- Practice Python every day
-- Track progress file-by-file
-- Gradually move from basics to intermediate/advanced topics
+As I keep practicing, I'll keep adding new files here day by day. One file, one topic at a time.
 
-## How to Run
+## Why am I doing this?
+
+Simple — consistency. I want to get comfortable with Python, and the only way that happens is by writing code regularly, making mistakes, and fixing them.
+
+## How to run
+
+Just clone the repo and run any file:
 
 ```bash
-python <file_name>.py
+python 01_basics.py
 ```
+
+That's it. Nothing fancy here, just me and my daily code. 🐍
