@@ -1,5 +1,7 @@
 # Daily Python Practice
 
+My daily Python practice repo where I write code every day, one topic at a time, to get better at Python through consistency.
+
 This is my everyday Python practice repo. Basically, I'm learning Python and instead of just watching tutorials and forgetting everything, I decided to write code daily and dump it all here so I can look back and see how far I've come.
 
 ## What's inside
